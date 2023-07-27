@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Razieh Shirzadkhani"
 title_separator          : "-"
 name                     : &name "Razieh Shirzadkhani"
-description              : &description "personal description"
+description              : &description "Research Assistant at Mila (Quebec AI Institute)"
 url                      : https://rshirzadkhani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rshirzadkhani/rshirzadkhani.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Razieh Shirzadkhani"
   avatar           : "IMG_26321.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Research Assistant at Mila (Quebec AI Institute)"
   location         : "Montreal, QC, Canada"
   employer         :
   pubmed           : 
